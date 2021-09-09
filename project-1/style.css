@@ -1,0 +1,162 @@
+body {
+  background-image: url("asset/vortex.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#p1 {
+  font-size: 1.3em;
+  font-family: Inconsolata;
+  font-weight: 700;
+  background-color: rgb(185, 163, 237);
+  width: 30%;
+  text-align: center;
+  padding: 35px;
+  top: 5%;
+  left: 10%;
+  z-index: 6;
+}
+
+#p2 {
+  font-size: 1.3em;
+  font-family: Inconsolata;
+  font-weight: 700;
+  background-color: rgb(163, 169, 237);
+  width: 15%;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  text-align: center;
+  padding: 35px;
+  z-index: 6;
+}
+
+#p3 {
+  display: none;
+  position: absolute;
+  bottom: 15px;
+  right: 50px;
+}
+
+.pop-up {
+  display: none;
+  position: fixed;
+  top: 30%;
+}
+
+.deer {
+  position: absolute;
+  top: 25%;
+  left: 30%;
+}
+
+#deer01 {
+  padding-left: 200px;
+  top: 50px;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+}
+#deer02 {
+  padding-left: 130px;
+  top: 78px;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+}
+
+#deer03 {
+  padding-left: 100px;
+  top: 85px;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+}
+#deer04 {
+  padding-left: 50px;
+  top: 100px;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+}
+
+.flowers {
+  left: 40%;
+  position: absolute;
+}
+
+#flower01 {
+  top: 150px;
+  left: 120px;
+  width: 400px;
+  height: 400px;
+  position: fixed;
+}
+
+#flower02 {
+  right: 60px;
+  top: 80px;
+  width: 400px;
+  height: 400px;
+  position: fixed;
+}
+#flower03 {
+  top: 300px;
+  right: 180px;
+  width: 400px;
+  height: 400px;
+  position: fixed;
+}
+
+#flower04 {
+  bottom: 230px;
+  right: 600px;
+  width: 400px;
+  height: 400px;
+  position: fixed;
+}
+#flower05 {
+  top: 300px;
+  left: 70px;
+  width: 400px;
+  height: 400px;
+  position: fixed;
+}
+
+#mri {
+  position: fixed;
+  left: 500px;
+  top: 30px;
+}
+
+#glitch01 {
+  position: fixed;
+  top: 700px;
+  left: 10px;
+}
+
+#neuron {
+  position: fixed;
+  top: 700px;
+  right: 70px;
+}
+
+#tardigrade {
+  position: fixed;
+  top: 50px;
+  right: 30px;
+}
+
+#garden-option {
+  position: fixed;
+  right: 20px;
+  top: 15px;
+  margin: 30px;
+  color: #fff;
+  border: 3px solid #fff;
+  background-color: Transparent;
+  cursor: help;
+  padding: 20px;
+  border-radius: 50%;
+  z-index: 100;
+}
