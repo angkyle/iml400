@@ -2,7 +2,7 @@
 
 ![demo](http://angkyle.github.io/iml400/project-1/asset/project-1-demo.png)
 
-[Cybernetic Garden](http://angkyle.github.io/iml400/project-1/index.html/) is an interactive web page inspired by the poem All Watched Over by Machines of Loving Grace by by Richard Brautigan.
+[Cybernetic Garden](https://angkyle.github.io/iml400/project-1/index.html) is an interactive web page inspired by the poem All Watched Over by Machines of Loving Grace by by Richard Brautigan.
 
 ### Description
 
