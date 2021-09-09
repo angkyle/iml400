@@ -4,31 +4,31 @@
 }
 
 .deer01 {
-  position: absolute;
+  position: fixed;
   left: 450px;
   top: 250px;
 }
 
 .deer02 {
-  position: absolute;
+  position: fixed;
   left: 300px;
   top: 100px;
 }
 
 .deer03 {
-  position: absolute;
+  position: fixed;
   left: 250px;
   top: 300px;
 }
 
 .deer04 {
-  position: absolute;
+  position: fixed;
   left: 150px;
   top: 200px;
 }
 
 .floatComp {
-  position: absolute;
+  position: fixed;
   left: 50px;
   top: 300px;
 }
