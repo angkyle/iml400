@@ -21,9 +21,28 @@ h2 {
   float: left;
 }
 
+#presentations {
+  bottom: -100px;
+}
+
 #exercises,
 #thoughts {
   float: left;
   width: 475px;
   padding-top: 100px;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: gray;
 }
