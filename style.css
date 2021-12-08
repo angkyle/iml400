@@ -21,10 +21,6 @@ h2 {
   float: left;
 }
 
-#presentations {
-  bottom: -100px;
-}
-
 #exercises,
 #thoughts {
   float: left;
